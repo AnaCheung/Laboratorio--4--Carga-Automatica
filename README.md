@@ -1,4 +1,4 @@
-# 🧪 Laboratorio - Implementación de Autocarga PSR-4 con Composer
+# 🧪 Laboratorio #4  -Carga Automática
 
 ## 📖 Introducción
 
