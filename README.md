@@ -122,3 +122,18 @@ Las clases se cargan únicamente cuando se necesitan.
 PSR-4 mantiene una estructura limpia y profesional.
 
 ---
+
+## 👨‍💻 Información del Estudiante
+
+* **Nombre:** Ana Cheung
+* **Correo:** [ana.cheung1@utp.ac.pa](mailto:ana.cheung1@utp.ac.pa)
+* **Curso:** Desarrollo de Software VII
+* **Instructor:** Ing. Irina Fong
+
+---
+
+## 📅 Fecha de Entrega
+
+** 6 de mayo del 2026**
+
+
