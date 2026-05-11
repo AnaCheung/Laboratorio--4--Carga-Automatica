@@ -81,16 +81,29 @@ $user = new User();
 ```
 
 ---
+---
 
 # 📸 Evidencias
 
-## Composer funcionando
+## ✔ Generación correcta del Autoload con Composer
 
-(AQUÍ VA TU CAPTURA)
+En la siguiente evidencia se observa la ejecución exitosa del comando:
 
-## Programa funcionando
+```bash
+composer dump-autoload
+```
 
-(AQUÍ VA TU CAPTURA)
+<p align="center">
+  <img width="585" height="67" alt="Captura de pantalla 2026-05-11 144856" src="https://github.com/user-attachments/assets/7206dcee-f1e9-4f0b-bd06-f9ac4882d8f4" />
+</p>
+
+---
+
+## ✔ Ejecución correcta del programa
+
+<p align="center">
+  <img width="524" height="67" alt="Captura de pantalla 2026-05-11 144500" src="https://github.com/user-attachments/assets/e9b8327b-b4d0-4b12-98fb-f4c8acb63f77" />
+</p>
 
 ---
 
@@ -109,7 +122,3 @@ Las clases se cargan únicamente cuando se necesitan.
 PSR-4 mantiene una estructura limpia y profesional.
 
 ---
-
-# 👨‍💻 Autor
-
-Ana Cheung
